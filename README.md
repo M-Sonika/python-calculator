@@ -38,11 +38,11 @@ python desktop_calculator.py
 
 ## Screenshots
 
-### Desktop  Calculator
-![Desktop Calculator](calculation.png)
+### Desktop Calculator(1)
+![Desktop Calculator(1)](calculation.png)
 
-### Desktop Calculator
-![Desktop Calculator](desktop-calculation.png)
+### Desktop Calculator(2)
+![Desktop Calculator(2)](desktop-calculation.png)
 
 ## Future Improvements
 - Scientific calculator
