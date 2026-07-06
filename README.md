@@ -38,11 +38,11 @@ python desktop_calculator.py
 
 ## Screenshots
 
-### Command-Line Calculator
-![Command-Line Calculator](calculation.png)
+### Desktop  Calculator
+![Desktop Calculator](calculation.png)
 
-### Tkinter Desktop Calculator
-![Tkinter Calculator](desktop-calculation.png)
+### Desktop Calculator
+![Desktop Calculator](desktop-calculation.png)
 
 ## Future Improvements
 - Scientific calculator
